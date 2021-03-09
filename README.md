@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por verificar este desafio de codificação de front-end.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
@@ -12,15 +12,15 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this FAQ accordion card and get it looking as close to the design as possible.
+Seu desafio é construir este cartão de acordeão de Perguntas frequentes e torná-lo o mais parecido possível com o design possível.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
 
-Your users should be able to:
+Seus usuários devem ser capazes de:
 
-- View the optimal layout for the component depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Hide/Show the answer to a question when the question is clicked
+- Visualize o layout ideal para o componente, dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para todos os elementos interativos na página
+- Ocultar / mostrar a resposta a uma pergunta quando ela for clicada
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
