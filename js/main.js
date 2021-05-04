@@ -1,0 +1,1 @@
+import initAccordion from './modules/initAccordion.js'
